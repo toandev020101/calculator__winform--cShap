@@ -1,0 +1,11 @@
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\bin\Debug\Calc_Toan.exe.config
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\bin\Debug\Calc_Toan.exe
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\bin\Debug\Calc_Toan.pdb
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.Properties.Resources.resources
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.csproj.GenerateResource.cache
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.csproj.CoreCompileInputs.cache
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.exe
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.pdb
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.frmToan.resources
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.frmHistory.resources
+E:\Lap-trinh-window\Calc_Toan\Calc_Toan\obj\Debug\Calc_Toan.csproj.AssemblyReference.cache
