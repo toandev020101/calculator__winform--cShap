@@ -512,12 +512,12 @@ namespace Calc_Toan
             this.tbResult.BackColor = System.Drawing.Color.Black;
             this.tbResult.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.tbResult.Enabled = false;
-            this.tbResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbResult.ForeColor = System.Drawing.Color.Gray;
             this.tbResult.Location = new System.Drawing.Point(26, 174);
             this.tbResult.Name = "tbResult";
             this.tbResult.ReadOnly = true;
-            this.tbResult.Size = new System.Drawing.Size(317, 37);
+            this.tbResult.Size = new System.Drawing.Size(317, 33);
             this.tbResult.TabIndex = 4;
             this.tbResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
